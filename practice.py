@@ -68,8 +68,8 @@
 # Given a string and an int n, return a string made of the first and last n 
 # chars from the string.
 #
-# Hint | Use string.slice
-# 		 | http://ruby-doc.org/core-2.2.0/String.html#method-i-slice
+# Hint | Use string slicing
+# 	   | pythoncentral.io/how-to-get-a-substring-from-a-string-in-python-slicing-strings/
 #
 # > Parameters 
 # ------------
